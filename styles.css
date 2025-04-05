@@ -1,0 +1,13 @@
+li {
+    color: red;
+}
+img {
+    display: block;
+    padding: 5px;
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+}
+h3 {
+  background-color: lightgray;  
+}
